@@ -19,7 +19,7 @@ It uses Streamlit, Scikit-Learn, and a trained Machine Learning model with TF-ID
 - **Scikit-Learn**
 - **Pandas**
 - **NumPy**
-- **plotly**
+- **Plotly**
 - **Pickle (loading saved model)**
 
 ---
