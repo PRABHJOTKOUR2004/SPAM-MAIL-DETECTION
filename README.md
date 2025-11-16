@@ -44,7 +44,7 @@ Follow the steps below to set up and run the Spam Mail Detection Web App:
 
 ### 🔹 1. Create a Virtual Environment
 ```bash
-python3 -m venv venv
+py -3.10 -m venv venv
 source venv/bin/activate
 ```
 ### 🔹 2. Install Dependencies
