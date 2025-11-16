@@ -49,7 +49,7 @@ pk520998@gmail.com
                     
 ---
 
-👨‍💻 **Developed by:**  
+👩‍💻 **Developed by:**  
 Prabhjot Kour
 
 ---
@@ -180,3 +180,4 @@ if uploaded_file is not None:
     except Exception as e:
         st.error("❌ Prediction failed.")
         st.exception(e)
+
